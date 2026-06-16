@@ -189,5 +189,68 @@ export const products: Product[] = [
         name: 'Temaki 9',
         image: '/images/temaki/Temaki9.png',
         price: 40
-    }
+    },
+    {
+        id: 39,
+        category: 'beverage',
+        name: 'Bebida 1',
+        image: '/images/bebidas/Bebida1.png',
+        price: 5
+    },
+    {
+        id: 40,
+        category: 'beverage',
+        name: 'Bebida 2',
+        image: '/images/bebidas/Bebida2.png',
+        price: 5
+    },
+    {
+        id: 41,
+        category: 'beverage',
+        name: 'Bebida 3',
+        image: '/images/bebidas/Bebida3.png',
+        price: 5
+    },
+    {
+        id: 42,
+        category: 'beverage',
+        name: 'Bebida 4',
+        image: '/images/bebidas/Bebida4.png',
+        price: 5
+    },
+    {
+        id: 43,
+        category: 'beverage',
+        name: 'Bebida 5',
+        image: '/images/bebidas/Bebida5.png',
+        price: 5
+    },
+    {
+        id: 44,
+        category: 'beverage',
+        name: 'Bebida 6',
+        image: '/images/bebidas/Bebida6.png',
+        price: 5
+    },
+    {
+        id: 45,
+        category: 'beverage',
+        name: 'Bebida 7',
+        image: '/images/bebidas/Bebida7.png',
+        price: 5
+    },
+    {
+        id: 46,
+        category: 'beverage',
+        name: 'Bebida 8',
+        image: '/images/bebidas/Bebida8.png',
+        price: 5
+    },
+    {
+        id: 47,
+        category: 'beverage',
+        name: 'Bebida 9',
+        image: '/images/bebidas/Bebida9.png',
+        price: 5
+    },
 ];
