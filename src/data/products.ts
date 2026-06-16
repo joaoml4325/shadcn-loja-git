@@ -127,4 +127,67 @@ export const products: Product[] = [
         image: '/images/combo/combo9.png',
         price: 81
     },
+    {
+        id: 30,
+        category: 'temaki',
+        name: 'Temaki 1',
+        image: '/images/combo/temaki1.png',
+        price: 40
+    },
+    {
+        id: 31,
+        category: 'temaki',
+        name: 'Temaki 2',
+        image: '/images/combo/temaki2.png',
+        price: 40
+    },
+    {
+        id: 32,
+        category: 'temaki',
+        name: 'Temaki 3',
+        image: '/images/combo/temaki3.png',
+        price: 40
+    },
+    {
+        id: 33,
+        category: 'temaki',
+        name: 'Temaki 4',
+        image: '/images/combo/temaki4.png',
+        price: 40
+    },
+    {
+        id: 34,
+        category: 'temaki',
+        name: 'Temaki 5',
+        image: '/images/combo/temaki5.png',
+        price: 40
+    },
+    {
+        id: 35,
+        category: 'temaki',
+        name: 'Temaki 6',
+        image: '/images/combo/temaki6.png',
+        price: 40
+    },
+    {
+        id: 36,
+        category: 'temaki',
+        name: 'Temaki 7',
+        image: '/images/combo/temaki7.png',
+        price: 40
+    },
+    {
+        id: 37,
+        category: 'temaki',
+        name: 'Temaki 8',
+        image: '/images/combo/temaki8.png',
+        price: 40
+    },
+    {
+        id: 38,
+        category: 'temaki',
+        name: 'Temaki 9',
+        image: '/images/combo/temaki9.png',
+        price: 40
+    },
 ];
