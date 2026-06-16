@@ -131,63 +131,63 @@ export const products: Product[] = [
         id: 30,
         category: 'temaki',
         name: 'Temaki 1',
-        image: '/images/combo/Temaki1.png',
+        image: '/images/temaki/Temaki1.png',
         price: 40
     },
     {
         id: 31,
         category: 'temaki',
         name: 'Temaki 2',
-        image: '/images/combo/Temaki2.png',
+        image: '/images/temaki/Temaki2.png',
         price: 40
     },
     {
         id: 32,
         category: 'temaki',
         name: 'Temaki 3',
-        image: '/images/combo/Temaki3.png',
+        image: '/images/temaki/Temaki3.png',
         price: 40
     },
     {
         id: 33,
         category: 'temaki',
         name: 'Temaki 4',
-        image: '/images/combo/Temaki4.png',
+        image: '/images/temaki/Temaki4.png',
         price: 40
     },
     {
         id: 34,
         category: 'temaki',
         name: 'Temaki 5',
-        image: '/images/combo/Temaki5.png',
+        image: '/images/temaki/Temaki5.png',
         price: 40
     },
     {
         id: 35,
         category: 'temaki',
         name: 'Temaki 6',
-        image: '/images/combo/Temaki6.png',
+        image: '/images/temaki/Temaki6.png',
         price: 40
     },
     {
         id: 36,
         category: 'temaki',
         name: 'Temaki 7',
-        image: '/images/combo/Temaki7.png',
+        image: '/images/temaki/Temaki7.png',
         price: 40
     },
     {
         id: 37,
         category: 'temaki',
         name: 'Temaki 8',
-        image: '/images/combo/Temaki8.png',
+        image: '/images/temaki/Temaki8.png',
         price: 40
     },
     {
         id: 38,
         category: 'temaki',
         name: 'Temaki 9',
-        image: '/images/combo/Temaki9.png',
+        image: '/images/temaki/Temaki9.png',
         price: 40
     }
 ];
